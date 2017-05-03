@@ -1,0 +1,69 @@
+
+.banner{
+	width: 100%;
+	height: 300px;
+	overflow: hidden;
+	position: relative;
+}
+.banner>a>img{
+	position: absolute;
+	left: 50%;
+	top: 0;
+	z-index: 1;
+	margin-left: -960px;
+}
+
+.main03{
+	width: 1040px;
+	height: 401px;
+	margin: 0 auto;
+	padding-top: 130px;
+}
+.main03 p{
+	text-align: center;
+	color:#666666;
+	font-size:12px;
+	font-family:微软雅黑;
+	line-height: 26px;
+}
+.main03 .main03_p{
+	font-size: 16px;
+}
+
+.main03 h4{
+	color:#333333;
+	font-size:18px;
+	font-family:微软雅黑;
+	text-align: center;
+	font-weight: normal;
+	color: #000000;
+}
+.main03_h{
+	margin-top: 50px;
+}
+.main03 .main03_p01{
+	text-align: center;
+	font-size:16px;
+	font-family:SimSun;
+	color:#000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

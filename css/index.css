@@ -1,0 +1,231 @@
+
+.banner{
+	width: 100%;
+	height: 500px;
+	overflow: hidden;
+	position: relative;
+}
+.banner>a>img{
+	position: absolute;
+	left: 50%;
+	top: 0;
+	z-index: 1;
+	margin-left: -960px;
+}
+
+.next{
+	width: 70px;
+	height: 70px;
+	display: block;
+	background: white;
+	position: absolute;
+	right: 50px;
+	top: 215px;
+	z-index: 2;
+	color: #fff;
+	font-size: 70px;
+	text-align: center;
+	line-height: 70px;
+	background: rgba(0,0,0,0.3);
+	border-radius: 5px;
+}
+.pre{
+	width: 70px;
+	height: 70px;
+	display: block;
+	background: rgba(0,0,0,0.3);
+	position: absolute;
+	left: 50px;
+	top: 215px;
+	z-index: 2;
+	color: #fff;
+	font-size: 70px;
+	text-align: center;
+	line-height: 70px;
+	border-radius: 5px;
+}
+
+.main01{
+	width: 1040px;
+	height: 260px;
+	margin: 0 auto;
+	background: #fff;
+}
+
+.main01 ul li{
+	width: 182px;
+	height: 130px;
+	float: left;
+	margin: 65px 32px 65px 0;
+}
+.main01 ul .main01_li05{
+	margin: 65px 0;
+}
+.main01_li01{
+	background: url(../img/ABUIABAEGAAgq-77rgUoq6_nkQQwtgE4ggE.png) no-repeat;
+}
+.main01_li01:hover{
+	background: url(../img/ABUIABAEGAAghID8rgUo8q34uAIwtgE4ggE.png) no-repeat;
+}
+.main01_li02{
+	background: url(../img/ABUIABAEGAAgmPv7rgUo3MfZ4gQwtgE4ggE.png) no-repeat;
+}
+.main01_li02:hover{
+	background: url(../img/ABUIABAEGAAgoYD8rgUoorrSsgIwtgE4ggE.png) no-repeat;
+}
+.main01_li03{
+	background: url(../img/ABUIABAEGAAgtPv7rgUotsCw1AYwtgE4ggE.png) no-repeat;
+}
+.main01_li03:hover{
+	background: url(../img/ABUIABAEGAAgvID8rgUouL-FwwYwtgE4ggE.png) no-repeat;
+}
+.main01_li04{
+	background: url(../img/ABUIABAEGAAg1fv7rgUo6qXjmQYwtgE4ggE.png) no-repeat;
+}
+.main01_li04:hover{
+	background: url(../img/ABUIABAEGAAg2YD8rgUotIm-sQQwtgE4ggE.png) no-repeat;
+}
+.main01_li05{
+	background: url(../img/ABUIABAEGAAg6Pv7rgUoz5KdowUwtgE4ggE.png) no-repeat;
+}
+.main01_li05:hover{
+	background: url(../img/ABUIABAEGAAg94D8rgUowvW4dDC2ATiCAQ.png) no-repeat;
+}
+
+.main02_all{
+	width: 100%;
+	height: 610px;
+	background: #dbdbdb;
+}
+.main02{
+	width: 1040px;
+	height: 610px;
+	margin: 0 auto;
+}
+.main02_img{
+	width: 1040px;
+	height: 118px;
+	text-align: center;
+}
+.main02 p{
+	font-size:12px;
+	color:#666666;
+	text-align: center;
+	line-height: 24px;
+}
+.main02_ul{
+	width: 1040px;
+	height: 325px;
+	margin-top: 30px;
+}
+.main02_ul li{
+	width: 195px;
+	height: 325px;
+	float: left;
+	margin-right: 16px;
+}
+.main02_ul .main02_ul_li05{
+	margin: 0;
+}
+.main02_ul_li01{
+	background: url(../img/ABUIABAEGAAgtYj8rgUo_fDsggcwwwE4xQI.png) no-repeat;
+}
+.main02_ul_li01:hover{
+	background: url(../img/ABUIABAEGAAg6JH8rgUojubf9AIwwwE4xQI.png) no-repeat;
+}
+.main02_ul_li02{
+	background: url(../img/ABUIABAEGAAg9o38rgUoh4jCswIwwwE4xQI.png) no-repeat;
+}
+.main02_ul_li02:hover{
+	background: url(../img/ABUIABAEGAAggZL8rgUo3OOkyAEwwwE4xQI.png) no-repeat;
+}
+.main02_ul_li03{
+	background: url(../img/ABUIABAEGAAgkI78rgUo6ra5xwMwwwE4xQI.png) no-repeat;
+}
+.main02_ul_li03:hover{
+	background: url(../img/ABUIABAEGAAgo5L8rgUo3MrJ7gYwwwE4xQI.png) no-repeat;
+}
+.main02_ul_li04{
+	background: url(../img/ABUIABAEGAAgmI78rgUoxrvwoAYwwwE4xQI.png) no-repeat;
+}
+.main02_ul_li04:hover{
+	background: url(../img/ABUIABAEGAAguJL8rgUolrzjxgMwwwE4xQI.png) no-repeat;
+}
+.main02_ul_li05{
+	background: url(../img/ABUIABAEGAAgqI78rgUox6bbogMwwwE4xQI.png) no-repeat;
+}
+.main02_ul_li05:hover{
+	background: url(../img/ABUIABAEGAAg5pL8rgUopJ_XIzDDATjFAg.png) no-repeat;
+}
+.main03_all{
+	width: 100%;
+	height: 531px;
+	overflow: hidden;
+	position: relative;
+}
+.main03_all>img{
+	position: absolute;
+	left: 50%;
+	top: 0;
+	z-index: -1;
+	margin-left: -960px;
+}
+.main03{
+	width: 1040px;
+	height: 401px;
+	margin: 0 auto;
+	padding-top: 130px;
+}
+.main03 p{
+	text-align: center;
+	color:#666666;
+	font-size:12px;
+	font-family:微软雅黑;
+	line-height: 26px;
+}
+.main03 .main03_p{
+	font-size: 16px;
+}
+
+.main03 h4{
+	color:#333333;
+	font-size:18px;
+	font-family:微软雅黑;
+	text-align: center;
+	font-weight: normal;
+	color: #000000;
+}
+.main03_h{
+	margin-top: 50px;
+}
+.main03 .main03_p01{
+	text-align: center;
+	font-size:16px;
+	font-family:SimSun;
+	color:#000000;
+}
+
+.main04{
+	width: 1040px;
+	height: 306px;
+	margin: 0 auto;
+}
+.main04_img{
+	width: 1040px;
+	height: 116px;
+	text-align: center;
+}
+.main04 p{
+	width: 760px;
+	height: 20px;
+	margin:50px auto 0;
+	font-size:14px;
+	color:#666666;
+	font-family:SimSun;
+	vertical-align: middle;
+	
+}
+.main04 p img,.main04 p b{
+	float: left;
+}
+

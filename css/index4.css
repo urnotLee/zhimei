@@ -1,0 +1,29 @@
+
+.banner{
+	width: 100%;
+	height: 200px;
+	overflow: hidden;
+	position: relative;
+}
+.banner>a>img{
+	position: absolute;
+	left: 50%;
+	top: 0;
+	z-index: 1;
+	margin-left: -960px;
+}
+.main01{
+	width: 1040px;
+	height: 540px;
+	margin: 0 auto;
+}
+.main02{
+	width: 1040px;
+	height: 400px;
+	margin: 0 auto;
+}
+.main03{
+	width: 1040px;
+	height: 178px;
+	margin: 0 auto;
+}
